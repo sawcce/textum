@@ -1,0 +1,11 @@
+{title} A lesson written at $date
+
+{header} This is a section
+{paragraph} This is a paragraph
+{paragraph} This is another paragraph
+
+{header} This is another section
+{paragraph} This is a paragraph
+{paragraph} This is another paragraph
+
+{footer} This is a footer lorem ipsum 
